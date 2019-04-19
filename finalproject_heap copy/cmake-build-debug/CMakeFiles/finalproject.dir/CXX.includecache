@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jmklefeker/CLionProjects/finalproject_heap/main.cpp
+pq_heap.h
+/Users/jmklefeker/CLionProjects/finalproject_heap/pq_heap.h
+
+/Users/jmklefeker/CLionProjects/finalproject_heap/pq_heap.cpp
+pq_heap.h
+/Users/jmklefeker/CLionProjects/finalproject_heap/pq_heap.h
+
+/Users/jmklefeker/CLionProjects/finalproject_heap/pq_heap.h
+iostream
+-
+time.h
+-
+fstream
+-
+sstream
+-
+

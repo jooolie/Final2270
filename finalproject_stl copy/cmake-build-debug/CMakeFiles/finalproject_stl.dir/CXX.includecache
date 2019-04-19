@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jmklefeker/CLionProjects/finalproject_stl/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+queue
+-
+vector
+-
+functional
+-
+time.h
+-
+chrono
+-
+
